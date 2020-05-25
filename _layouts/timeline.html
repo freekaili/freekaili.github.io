@@ -4,9 +4,11 @@ layout: compress
 
 <!DOCTYPE html>
 <html>
-{% include header.html %}
-{% include timeline_head.html %}
-<body>
-	{{ content }}
-</body>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}" />
+  {% include header.html %} {% include timeline_head.html %}
+  <body>
+    <div class="timeline">
+      {{ content }}
+    </div>
+  </body>
 </html>
