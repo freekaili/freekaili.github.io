@@ -25,6 +25,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Add collections for timeline
+collections:
+  posts:
+    title: Posts
+    output: true
+  steps:
+    title: Steps
+    output: false
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
