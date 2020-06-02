@@ -4,16 +4,16 @@ title: Timeline
 ---
 
 <div class="container row">
-	<h1 class="cv-title"><span class="black white-text">{{ page.title }}</span></h1>
+	<h2 class="cv-title"><span class="black white-text">{{ page.title }}</span></h2>
 	{% assign steps = site.steps | sort: 'date' %}
 	{% for step in steps %}
 	<div class="item">
 		<i class="vertical-line"></i>
-		<h2 class="item-date">{{ step.date | date: '%m/%Y' }}{% if step.enddate %} - {{ step.enddate | date: '%m/%Y' }}{% endif %}</h2>
+		<h3 class="item-date">{{ step.date | date: '%m/%d/%Y' }}{% if step.enddate %} - {{ step.enddate | date: '%m/%d/%Y' }}{% endif %}</h3>
 		<div class="card-panel">
-			<h3 class="card-title">
+			<h4 class="card-title">
 				{{ step.title }}
-			</h3>
+			</h4>
 			<p>
 				{{ step.content }}
 			</p>
