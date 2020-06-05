@@ -6,6 +6,14 @@ permalink: /media/
 
 Here are links to selected news articles about Kai's case. If you are a journalist interested in reporting on the case, please send an e-mail to freekaili2016@gmail.com.
 
+---
+
+(2020-05-29, *Nikkei Asian Review*) [Hong Kong security law puts foreign residents and businesses in danger](https://asia.nikkei.com/Opinion/Hong-Kong-security-law-puts-foreign-residents-and-businesses-in-danger)
+
+US Senator Marco Rubio highlights Kai's detention as an example of the danger the expansion of Chinese "national security" laws into Hong Kong poses to Americans. 
+
+---
+
 (2020-01-15, *Reuters*) [U.S. lawmakers urge Trump to press China on detainees](https://www.reuters.com/article/us-usa-china-detainees/u-s-lawmakers-urge-trump-to-press-china-on-detainees-idUSKBN1ZD2S0)
 
 The bipartisan Congressional Executive Commission on China penned a letter to President Trump urging him to raise the cases of Kai Li and other Americans detained in China with China's President Xi Jinping.

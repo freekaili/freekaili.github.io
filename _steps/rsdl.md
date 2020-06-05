@@ -1,5 +1,5 @@
 ---
-title: Kai is taken into custody
+title: Residential surveillance at a designated location
 date: 2016-09-09 00:00:00 -0700
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Kai is placed on trial
+title: Trial
 date: 2017-08-10 00:00:00 -0700
 ---
 
