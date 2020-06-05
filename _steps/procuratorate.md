@@ -1,5 +1,5 @@
 ---
-title: Case transfered to procuratorate
+title: Procuratorate
 date: 2017-02-24 00:00:00 -0700
 ---
 

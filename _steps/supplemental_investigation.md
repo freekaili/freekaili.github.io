@@ -1,5 +1,5 @@
 ---
-title: Case returned for supplemental investigation
+title: Supplemental procuratorate investigations
 date: 2017-11-09 00:00:00 -0700
 ---
 
