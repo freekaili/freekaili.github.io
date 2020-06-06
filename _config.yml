@@ -18,6 +18,8 @@ email: freekaili2016@gmail.com
 description: Website dedicated to the cause of freeing Kai Li, husband and father, US citizen sentenced to 10 years in Chinese prison on politically motivated espionage charges 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: freekaili
+
 
 # Build settings
 markdown: kramdown
@@ -39,6 +41,8 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

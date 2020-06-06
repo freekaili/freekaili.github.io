@@ -4,7 +4,7 @@ date: 2017-11-09 00:00:00 -0700
 ---
 
 <p align="center">
-	<img src="{{site.url}}/assets/img/magnifying_glass.jpg" alt=""/>
+	<img src="{{site.url}}/assets/img/magnifying_glass.jpg" alt="" width="300" height="300">
 </p>
 
 
