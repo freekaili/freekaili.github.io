@@ -18,7 +18,7 @@ layout: home
 
 <div class="titleDiv"> 
 	<h1> Free Kai Li </h1>
-	<p style="font-size:20px"> US citizen, husband, and father  </p>
+	<p style="font-size:20px"> US citizen, husband, and father wrongly detained since 2016  </p>
 	<p> Sentenced to 10 years in Chinese prison on politically motivated espionage charges </p>
 	<figure>
 	<p align="center">
