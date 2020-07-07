@@ -22,11 +22,20 @@ permalink: /help/
 </div>
 
 <div class="helpMethod">
-	<h2><u> Contact members of Congress: </u></h2>
-	<p>Call your senator and representative, stating your concerns about Kai Li's detention and the need for Kai's case to be publicly recognized by Secretary of State Pompeo and President Trump. A directory of senator phone numbers can be found <a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm">here</a>, while house phone numbers can be found <a href="https://www.house.gov/representatives">here</a>.</p>
-	<p> A perhaps more streamlined way of raising awareness in Congress is to contact the <a href="https://foreignaffairs.house.gov/">House Foreign Affairs Committee</a> at (202)-225-5021, and the <a href="https://www.foreign.senate.gov/">Senate Foreign Relations Committee </a> at (202)-224-4651. Mention your concern about Kai's detention, request with the operator that the committees hold a hearing on Kai's case, and ask for contact information for the appropriate staffer to follow up. </p>
-
+	<h2><u> Sign a letter to Congress: </u></h2>
+	<p> Text <b>SIGN ZCFOFT</b> to <b>50409</b> and follow the instructions from <a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm">Resistbot</a> to sign the letter below to your representatives in Congress: </p>
+	<figure>
+	<p align="center">
+  		<img width="550" height="400" src="{{site.url}}/assets/img/resist_letter.jpg">
+	</p>
+	</figure>
 </div>
+<div class="helpMethod">
+	<h2><u> Make phone calls </u></h2>
+	<p>You can call your senator and/or representative's offices, stating your concerns about Kai Li's detention and the need for Kai's case to be publicly recognized by Secretary of State Pompeo and President Trump. A directory of Senate phone numbers can be found <a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm">here</a>, while House phone numbers can be found <a href="https://www.house.gov/representatives">here</a>.</p>
+	<p> You can also contact the <a href="https://foreignaffairs.house.gov/">House Foreign Affairs Committee</a> at (202)-225-5021, and the <a href="https://www.foreign.senate.gov/">Senate Foreign Relations Committee </a> at (202)-224-4651. Mention your concern about Kai's detention, request with the operator that the committees hold a hearing on Kai's case, and ask for the contact information of the appropriate staffer to follow up. </p>
+</div>
+
 
 
 

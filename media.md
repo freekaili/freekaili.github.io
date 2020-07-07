@@ -6,6 +6,8 @@ permalink: /media/
 
 Here are links to selected news articles about Kai's case. If you are a journalist interested in reporting on the case, please send an e-mail to freekaili2016@gmail.com.
 
+(2020-06-25, *CNN*) [How this Long Island man ended up in a Chinese prison on espionage charges](https://www.cnn.com/2020/06/25/asia/us-china-detention-li-kai-intl-hnk/index.html)
+
 ---
 
 (2020-05-29, *Nikkei Asian Review*) [Hong Kong security law puts foreign residents and businesses in danger](https://asia.nikkei.com/Opinion/Hong-Kong-security-law-puts-foreign-residents-and-businesses-in-danger)
