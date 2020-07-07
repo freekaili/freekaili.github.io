@@ -34,7 +34,7 @@ This website is designed to raise awareness of the detention of Kai Li, an Ameri
 
 Kai is the only US citizen currently held in China on state security charges. The Chinese government has repeatedly used state security charges to detain foreign nationals for political leverage: the highly publicized detention of Canadians Michael Spavor and Michael Kovrig, in apparent retaliation for the arrest of Huawei CFO Meng Wanzhou in Vancouver, is a case in point, as are the former cases of geologist Xue Feng and businesswoman Sandy Phan-Gillis.
 
-Kai has been wrongly separated from his family in New York for nearly four years now. During that time he has not . While Kai's case has been raised on dozens of occasions by officials at all levels of the US government, this has evidently not been enough, and further public awareness is needed. [Here]({{site.url}}/help/) are some ways you can help.
+Kai has been wrongly separated from his family in New York for nearly four years now. During that time he has suffered from numerous health issues including shingles and irregular heartbeat. Due to the COVID-19 pandemic, Kai has not been visited by the US Consulate, or anyone else, since January 2020, making it difficult to ascertain his well-being. While Kai's case has been raised on dozens of occasions by officials at all levels of the US government, this has evidently not been enough, and further public awareness is needed. [Here]({{site.url}}/help/) are some ways you can help.
 
 More information about Kai's case can be found [here](/About), and a timeline of case developments can be found [here](/Timeline/). For media inquiries, please contact freekaili2016@gmail.com.
 
