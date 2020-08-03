@@ -6,6 +6,14 @@ permalink: /media/
 
 Here are links to selected news articles about Kai's case. If you are a journalist interested in reporting on the case, please send an e-mail to freekaili2016@gmail.com.
 
+---
+
+(2020-07-30, *Safeguard Defenders*) [Accused of spying, another victim of China's hostage diplomacy](https://safeguarddefenders.com/en/blog/accused-spying-another-victim-china-s-hostage-diplomacy)
+
+In an exclusive interview, [Safeguard Defenders](https://safeguarddefenders.com/en), an international human rights NGO, highlights Kai's case as an example of China's hostage diplomacy, which is only set to get worse with the passage of the new Hong Kong national security law.
+
+---
+
 (2020-06-25, *CNN*) [How this Long Island man ended up in a Chinese prison on espionage charges](https://www.cnn.com/2020/06/25/asia/us-china-detention-li-kai-intl-hnk/index.html)
 
 ---
