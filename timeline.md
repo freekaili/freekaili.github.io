@@ -1,6 +1,7 @@
 ---
 layout: timeline
 title: Timeline
+permalink: /timelineEvents/
 ---
 
 <div class="container row">
