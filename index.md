@@ -36,7 +36,7 @@ Kai is the only US citizen currently held in China on state security charges. Th
 
 Kai has been wrongly separated from his family in New York for nearly four years now. During that time he has suffered from numerous health issues including shingles and irregular heartbeat. Due to the COVID-19 pandemic, Kai has not been visited by the US Consulate, or anyone else, since January 2020, making it difficult to ascertain his well-being. While Kai's case has been raised on dozens of occasions by officials at all levels of the US government, this has evidently not been enough, and further public awareness is needed. [Here]({{site.url}}/help/) are some ways you can help.
 
-More information about Kai's case can be found [here](/About), and a timeline of case developments can be found [here](/Timeline/). For media inquiries, please contact freekaili2016@gmail.com.
+More information about Kai's case can be found [here](/about/), and a timeline of case developments can be found [here](/timeline/). For media inquiries, please contact freekaili2016@gmail.com.
 
 
 
