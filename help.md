@@ -18,7 +18,7 @@ permalink: /help/
 
 <div class="helpMethod">
 	<h2><u> Raise awareness: </u></h2>
-	Share the articles on the <a href="{{site.url}}/media">Media page</a> on your social media, and follow and share the <a href="www.facebook.com/freekaili">Free Kai Li Facebook page!</a>
+	Share the articles on the <a href="{{site.url}}/media">Media page</a> on your social media, and follow and share Free Kai Li's posts on social media! (<a href="https://www.facebook.com/freekaili">Facebook</a>, <a href="https://www.twitter.com/FreeKaiLi">Twitter</a>, <a href="https://www.instagram.com/freekaili">Instagram</a>)
 </div>
 
 <div class="helpMethod">
