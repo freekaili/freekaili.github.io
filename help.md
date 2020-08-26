@@ -20,7 +20,10 @@ permalink: /help/
 	<h2><u> Raise awareness: </u></h2>
 	Share the articles on the <a href="{{site.url}}/media">Media page</a> on your social media, and follow and share Free Kai Li's posts on social media! (<a href="https://www.facebook.com/freekaili">Facebook</a>, <a href="https://www.twitter.com/FreeKaiLi">Twitter</a>, <a href="https://www.instagram.com/freekaili">Instagram</a>)
 </div>
-
+<div class="helpMethod">
+	<h2><u> Sign a petition to the President: </u></h2>
+	Click the link below to sign a petition to the President of the United States urging him to Free Kai Li: <a href="https://www.change.org/FreeKaiLiNow">https://www.change.org/FreeKaiLiNow</a>
+</div>
 <div class="helpMethod">
 	<h2><u> Sign a letter to Congress: </u></h2>
 	<p> Text <b>SIGN ZCFOFT</b> to <b>50409</b> and follow the instructions from <a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm">Resistbot</a> to sign the letter below to your representatives in Congress: </p>
