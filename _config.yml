@@ -21,7 +21,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: freekaili
 twitter_username: FreeKaiLi
 instagram_username: freekaili
-
+rss: Press Releases
 
 # Build settings
 markdown: kramdown
@@ -32,7 +32,7 @@ plugins:
 # Add collections for timeline
 collections:
   posts:
-    title: Posts
+    title: Media releases
     output: false
   steps:
     title: Steps
@@ -43,7 +43,8 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
+plugins:
+  - jekyll-feed
 
 
 # Exclude from processing.

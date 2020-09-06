@@ -18,6 +18,8 @@ layout: home
 
 <div class="titleDiv"> 
 	<h1> <a href="https://www.change.org/FreeKaiLiNow"> Click here to take action to Free Kai Li! </a></h1>
+	<h2> Follow Free Kai Li on <a href="https://www.facebook.com/FreeKaiLi">Facebook</a>, <a href="https://www.twitter.com/FreeKaiLi">Twitter</a>, and <a href="https://www.instagram.com/FreeKaiLi">Instagram</a></h2>
+	<h2> <a href="/feed.xml">Subscribe</a> via RSS for the latest press releases! </h2>
 	<p style="font-size:20px"> US citizen, husband, and father wrongly detained since 2016  </p>
 	<p> Sentenced to 10 years in Chinese prison on politically motivated espionage charges </p>
 	<figure>
