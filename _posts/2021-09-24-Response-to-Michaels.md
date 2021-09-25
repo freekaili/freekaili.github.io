@@ -4,7 +4,7 @@ title: "Following Release of Michael Kovrig and Michael Spavor, U.S. Citizen Rem
 categories: misc
 ---
 
-**24 Sept 2021** – 
+**24 Sept 2021** 
 
 Following the release of Canadian citizens Michael Kovrig and Michael Spavor from China just hours after the withdrawal of a US extradition request for Huawei CFO Meng Wanzhou, Kai Li, a US citizen, remains behind bars in Shanghai’s Qingpu Prison, serving a 10-year sentence on charges of “stealing state secrets” that appear nearly identical to those levied against the Canadians. 
 
