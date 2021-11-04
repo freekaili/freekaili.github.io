@@ -5,6 +5,7 @@ categories: misc
 ---
 
 **4 Nov 2021** 
+
 On Thursday, a bipartisan group of 15 Senators and members of Congress sent a letter to President Biden urging him to prioritize the release of Kai Li, a US citizen serving a 10-year prison sentence in China since 2016 on trumped up charges of “espionage” and “stealing state secrets”.
 
 The letter makes extensive references to a decision from the United Nations Working Group on Arbitrary Detention earlier this year, which, among other things, stated that there was no legal basis for the arrest of Li, a businessman who, according to his son, was a small business owner who served for 25 years as a marketing representative for Spectrolab, Inc., a subsidiary of Boeing.
